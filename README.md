@@ -24,4 +24,7 @@ Welcome to **75_blind_LeetCode**, a comprehensive repository featuring 75 handpi
 
 Whether you're a beginner honing your skills or an experienced coder preparing for interviews, embark on this coding journey with '75_blind_LeetCode' to sharpen your abilities and succeed in technical interviews.
 
-Happy Coding!
+---
+<p align=center>
+<em><b>Happy Coding! 💓</em>
+</p>
